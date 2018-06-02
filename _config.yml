@@ -8,7 +8,7 @@ logo:               'assets/img/logo2.png'
 background:         'assets/img/place6.jpg'
 tiled_bg:           false
 locale:             en_US
-url:                http://127.0.0.1:4000/
+url:                https://diego95root.github.io
 
 # Jekyll
 permalink:          /:title/
