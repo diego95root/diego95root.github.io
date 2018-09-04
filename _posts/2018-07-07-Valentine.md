@@ -2,8 +2,8 @@
 layout: post
 title: "Valentine write-up"
 date: 2018-07-07
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+excerpt: "Heartbleed bug leads to RSA exposed key being decrypted, which in turn leads to root through an open tmux session owned by root."
+tags: [Hack The Box, Pentesting, Heartbleed, RSA, Tmux]
 comments: true
 ---
 

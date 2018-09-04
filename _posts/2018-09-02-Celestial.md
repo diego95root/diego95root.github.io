@@ -2,8 +2,8 @@
 layout: post
 title: "Celestial write-up"
 date: 2018-09-02
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+excerpt: "Cool deserialization flaw that allows to get a shell. Then just use dirty cow to get the root hashes."
+tags: [Hack The Box, Pentesting, JSON, Dirty cow]
 comments: true
 ---
 

@@ -2,14 +2,14 @@
 title:              Diego95root
 bio:                'My personal website'
 description:        "This is my personal website"
-words_per_minute:   200
+words_per_minute:   100
 reading_time:       true
 logo:               'assets/img/logo2.png'
 background:         'assets/img/place6.jpg'
 tiled_bg:           false
 locale:             en_US
-#url:                https://diego95root.github.io
-url:                http://127.0.0.1:4000/
+url:               https://diego95root.github.io
+#url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
