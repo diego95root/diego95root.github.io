@@ -77,7 +77,7 @@ Afterwards, I replace the "2" in the json by the function expression and encode 
 
 Then we just have to find the hash inside Documents/user.txt:
 
-9a093cd22ce86b7f41db4116e80d0b0f
+``9a093cd22ce86b7f41db4116e80d0b0f``
 
 #### Exploit (Root access)
 
