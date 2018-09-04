@@ -5,6 +5,7 @@ date: 2017-08-22
 excerpt: "Apache Struts vulnerability with SQL service dump, combined with an unexpected privesc due to some rabbit holes."
 tags: [Hack The Box, Pentesting, Apache Struts, SQL]
 comments: true
+feature: https://static1.squarespace.com/static/5a01100f692ebe0459a1859f/t/5a019fe241920244cafd87a7/1510061482435/stratosphere-stock-3.jpg?format=1500w
 ---
 
 # Hack The Box: Stratosphere machine write-up

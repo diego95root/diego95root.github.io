@@ -5,6 +5,7 @@ date: 2018-07-07
 excerpt: "Heartbleed bug leads to RSA exposed key being decrypted, which in turn leads to root through an open tmux session owned by root."
 tags: [Hack The Box, Pentesting, Heartbleed, RSA, Tmux]
 comments: true
+feature: /assets/posts_details/Valentine/images/omg.jpg
 ---
 
 # Hack The Box: Valentine machine write-up

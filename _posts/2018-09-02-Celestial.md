@@ -5,6 +5,7 @@ date: 2018-09-02
 excerpt: "Cool deserialization flaw that allows to get a shell. Then just use dirty cow to get the root hashes."
 tags: [Hack The Box, Pentesting, JSON, Dirty cow]
 comments: true
+feature: https://cdn.shopify.com/s/files/1/2526/4774/products/picture_purple1_1024x1024_4a613216-8b30-491a-b03e-ba6c0f59db1b_1800x.png?v=1519943118
 ---
 
 # Hack The Box: Celestial machine write-up
