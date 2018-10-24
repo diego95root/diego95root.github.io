@@ -15,4 +15,6 @@ comments: false
 * PaellaCON and RootedCON participant
 * Summer Course in <i>Universidad Francisco de Vitoria (UFV), Madrid, Spain</i>
 
-<footer>More to come...</footer>
+## CV
+
+You can find my CV [here](CV.pdf)
