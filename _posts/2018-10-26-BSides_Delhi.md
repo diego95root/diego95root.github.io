@@ -2,7 +2,7 @@
 layout: post
 title: "BSides Delhi 2018: RSA_Baby [Crypto]"
 date: 2018-10-14
-excerpt: "RSA explanation algon with a cool problem from BSides Delhi 2018 that takes it one step further"
+excerpt: "RSA explanation along with a cool problem from BSides Delhi 2018 that takes it one step further"
 tags: [RSA, CTF, Python]
 comments: true
 feature: http://www.cse.chalmers.se/edu/course/TDA352/assets/images/avatar.jpg
