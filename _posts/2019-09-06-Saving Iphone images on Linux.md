@@ -2,10 +2,10 @@
 layout: post
 title: "Saving Iphone images on Linux"
 date: 2019-09-06
-excerpt: ""
+excerpt: "Interested in how I managed to copy all of my Iphone images to my Linux machine using SMB and a Windows VM? Well, then you may be interested in one of the many problems I had with Shotwell..."
 tags: [Iphone, Linux]
 comments: true
-feature:
+feature: /assets/posts_details/Iphone/FM_all.png
 ---
 
 # Saving Iphone images on Linux
