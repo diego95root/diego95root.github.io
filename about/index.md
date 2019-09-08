@@ -2,18 +2,21 @@
 layout: page
 title: About me
 tags: [Author]
-date: 2018-09-10
 comments: false
 ---
 
-<center style="font-size:20px">I'm <b>Diego Bernal Adelantado</b></center>
+<center style="font-size:20px"><b>Diego Bernal Adelantado</b></center>
 
-## My education and others
+## Education
 
 * IB Diploma Programme graduate (2016-2018)
-* Current Computer Science undergraduate in the <i>University of Leeds, UK</i>
-* PaellaCON and RootedCON participant
-* Summer Course in <i>Universidad Francisco de Vitoria (UFV), Madrid, Spain</i>
+* Current Computer Science undergraduate in the <i>University of Leeds, UK</i> (2018-2021)
+* Computer Science Summer Course in <i>Universidad Francisco de Vitoria (UFV), Madrid, Spain</i>, 2017
+* PaellaCON 2018 attendee
+* RootedCON 2018 attendee
+* BSides Dublin 2019 attendee
+* BSides Leeds 2019 attendee
+* Robot Fighting League 2019 participant (Leeds University by ShockSoc)
 
 ## CV
 
