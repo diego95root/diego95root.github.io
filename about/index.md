@@ -20,4 +20,4 @@ comments: false
 
 ## CV
 
-You can find my CV [here](CV.pdf)
+Just ask for it.
