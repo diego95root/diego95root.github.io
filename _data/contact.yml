@@ -3,6 +3,7 @@
 #  https://github.com/cotes2020/jekyll-theme-chirpy
 #  © 2020 Cotes Chung
 #  MIT Licensed
+# icons powered by <https://fontawesome.com/>
 
 -
   type: github
@@ -11,18 +12,14 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/diego-bernal-adelantado'
+
+-
+  icon: 'fas fa-cube'
+  url:  'https://www.hackthebox.eu/home/users/profile/31531'
+
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
-
-# Complete the url below to enable more contact options
--
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/diego-bernal-adelantado'                  # Fill with your Linkedin homepage
--
-  icon: 'fab fa-stack-overflow'
-  url:  ''                  # Fill with your stackoverflow homepage
