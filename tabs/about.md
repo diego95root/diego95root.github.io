@@ -8,4 +8,8 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees
+
+# Who am I?
+
+Thingies
