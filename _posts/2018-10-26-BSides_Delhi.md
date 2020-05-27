@@ -4,8 +4,9 @@ title: "BSides Delhi 2018: RSA_Baby [Crypto]"
 date: 2018-10-14
 excerpt: "RSA explanation along with a cool problem from BSides Delhi 2018 that takes it one step further"
 tags: [RSA, CTF, Python]
+categories: [CTF, Cryptography]
 comments: true
-feature: http://www.cse.chalmers.se/edu/course/TDA352/assets/images/avatar.jpg
+feature: /assets/posts_details/BSides_Delhi/images/header.png
 ---
 
 # BSides Delhi 2018: RSA_Baby write-up
@@ -59,7 +60,7 @@ If we analyze all moduli we can notice that the first and fourth ones share a co
 With a simple python program or online calculator we can find that the GCD of ``modulus_list[0]`` and ``modulus_list[3]`` is:
 
 111960225180138464064502577636803075288614408406337123570210191209344103731804
-06217919066924474450204377977943388931820832436504741695416094988192576484719.
+06217919066924474450204377977943388931820832436504741695416094988192576484719
 
 Now we can recover the other factor, given that <i>n</i> is the product of <i>p</i> and <i>q</i> and we already got one.
 

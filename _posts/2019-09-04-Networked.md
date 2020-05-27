@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "HackTheBox: Networked write-up"
+title: "Hack The Box: Networked write-up"
 date: 2019-09-04
 excerpt: "Do you know bash and php? This post is a lesson on how to properly process input when running bash commands and how to (not) secure a file upload with php! "
 tags: [Hack The Box, Pentesting, Bash, PHP, File Upload, Cron job, Pivoting]
+categories: [Hack The Box]
 comments: true
-feature: https://t3.ftcdn.net/jpg/01/91/53/10/240_F_191531014_IiaBQ5CqF35xdxtBgQZVWgbmlsfqeIIm.jpg
+feature: /assets/posts_details/Networked/images/header.png
 ---
 
 # Hack The Box: Networked machine write-up
@@ -267,7 +268,7 @@ echo $var=$x >> /etc/sysconfig/network-scripts/ifcfg-guly
 
 The variable `x` reads our inputs and so if there are no quotes bash interprets the contents as a command. That's why we could type "`whatever bash`" and get a shell, because `whatever` got assigned to `var` and then the bash command would get executed.
 
-This is everything, I hope you enjoyed the writeup and learned the following lesson: use quotes with bash commands! If you liked it you can give me respect on hackthebox through the following link: <https://www.hackthebox.eu/home/users/profile/31531>. Until next time!
+This is everything, I hope you enjoyed the writeup and learned the following lesson: use quotes with bash commands! If you liked it you can give me respect on Hack The Box through the following link: <https://www.Hack The Box.eu/home/users/profile/31531>. Until next time!
 
 ---
 

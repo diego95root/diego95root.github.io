@@ -4,8 +4,9 @@ title: "X-MAS CTF: GnomeArena: Rock Paper Scissors"
 date: 2018-12-21
 excerpt: "Cool file upload vulnerability followed by a minimalist php shell!"
 tags: [CTF, PHP, Web, File Upload]
+categories: [CTF, Web]
 comments: true
-feature: https://pxt.azureedge.net/blob/68f66c3ddc3acfc4c53157abf92eace202d46db2/static/courses/csintro/conditionals/rock-paper-scissors-items.png
+feature: /assets/posts_details/XMAS_CTF/gnome/header.png
 ---
 
 # X-MAS CTF: GnomeArena: Rock Paper Scissors

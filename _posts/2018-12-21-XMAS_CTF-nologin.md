@@ -4,8 +4,9 @@ title: "X-MAS CTF: Santa's No Password Login System"
 date: 2018-12-21
 excerpt: "Blind SQL injection in the user-agent field? Nobody expected that..."
 tags: [CTF, SQL, Python, Web]
+categories: [CTF, Web]
 comments: true
-feature: http://4.bp.blogspot.com/-5rGrGNy9X_4/TpP6Vr64pzI/AAAAAAAAArE/SfEouAm3U38/s1600/sql+injection.jpg
+feature: /assets/posts_details/XMAS_CTF/nologin/header.png
 ---
 
 # X-MAS CTF: Santa's No Password Login System

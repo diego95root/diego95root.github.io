@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "HackTheBox: Valentine write-up"
+title: "Hack The Box: Valentine write-up"
 date: 2018-07-07
 excerpt: "Heartbleed bug leads to RSA exposed key being decrypted, which in turn leads to root through an open tmux session owned by root."
 tags: [Hack The Box, Pentesting, Heartbleed, RSA, Tmux]
+categories: [Hack The Box]
 comments: true
 feature: /assets/posts_details/Valentine/images/omg.jpg
 ---

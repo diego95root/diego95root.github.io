@@ -4,8 +4,9 @@ title: "IceCTF 2018: Web write-ups"
 date: 2018-09-02
 excerpt: "Various write-ups from IceCTF web challenges"
 tags: [IceCTF, CTF, Robots, Laravel, CSS]
+categories: [CTF, Web]
 comments: true
-feature: https://4.bp.blogspot.com/-C0CsO2IL0M4/V8Td0P8kh-I/AAAAAAAABrM/QDQy2LDL4TM6Az3it0nfnUptl8JOka5NQCLcB/s1600/icectf_banner_big.png
+feature: /assets/posts_details/IceCTF/images/header.png
 ---
 
 ## Web 1. Toke Relaunch {#web1}
@@ -68,16 +69,15 @@ So let's inspect the html:
 
 Apparently there is nothing on it, so I'll also have a look at the css file. However, I'm going to use Chrome's inspect, as it lets me have a look at each element separately.
 
-{% capture images %}
-    /assets/posts_details/IceCTF/web2/1.png
-    /assets/posts_details/IceCTF/web2/2.png
-{% endcapture %}
-{% include gallery images=images cols=2 %}
-{% capture images %}
-    /assets/posts_details/IceCTF/web2/3.png
-    /assets/posts_details/IceCTF/web2/4.png
-{% endcapture %}
-{% include gallery images=images caption="Styles of .clearfix and tags: i, strong and small" cols=2 %}
+*Styles of .clearfix and tags: i, strong and small*
+
+![Img](/assets/posts_details/IceCTF/web2/1.png "Img")
+
+![Img](/assets/posts_details/IceCTF/web2/2.png "Img")
+
+![Img](/assets/posts_details/IceCTF/web2/3.png "Img")
+
+![Img](/assets/posts_details/IceCTF/web2/4.png "Img")
 
 So from there we can reverse the flag and get:
 

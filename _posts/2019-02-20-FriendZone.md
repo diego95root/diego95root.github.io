@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "HackTheBox: FriendZone write-up"
+title: "Hack The Box: FriendZone write-up"
 date: 2019-02-20
 excerpt: "Really good machine to learn about DNS, also includes LFI and python library poisoning! One of my best ones so far! "
 tags: [Hack The Box, Pentesting, LFI, SMB, Python, PHP]
+categories: [Hack The Box]
 comments: true
 feature: /assets/posts_details/FriendZone/images/logo.png
 ---

@@ -4,8 +4,9 @@ title: "InCTF: The Most Secure File Uploader"
 date: 2018-10-07
 excerpt: "From file upload to python RCE. Who would've guessed the solution had to do with the chr() and ord() functions?"
 tags: [CTF, Python, Jail]
+categories: [CTF, Web]
 comments: true
-feature: https://news-images.vice.com/images/articles/meta/2015/07/31/alabama-cops-allegedly-brought-a-python-into-jail-to-torture-an-inmate-1438382699.jpg?crop=1xw:0.918918918918919xh;0xw,0.04054054054054054xh&resize=1200:*&output-format=image/jpeg&output-quality=75
+feature: /assets/posts_details/InCTF/File_uploader/header.png
 ---
 
 # InCTF: The Most Secure File Uploader

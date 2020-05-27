@@ -4,8 +4,9 @@ title: "IceCTF 2018: Forensics write-ups"
 date: 2018-09-02
 excerpt: "Various write-ups from IceCTF forensics challenges"
 tags: [IceCTF, CTF, Forensics, Photoshop, ZIP, File Headers, Python]
+categories: [CTF, Forensics]
 comments: true
-feature: https://4.bp.blogspot.com/-C0CsO2IL0M4/V8Td0P8kh-I/AAAAAAAABrM/QDQy2LDL4TM6Az3it0nfnUptl8JOka5NQCLcB/s1600/icectf_banner_big.png
+feature: /assets/posts_details/IceCTF/images/header.png
 ---
 
 ## Forensics 1. Modern Picasso {#forensics1}

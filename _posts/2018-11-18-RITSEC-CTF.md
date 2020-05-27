@@ -4,6 +4,7 @@ title: "RITSEC CTF: CictroHash write-up"
 date: 2018-11-18
 excerpt: "Combining Python and C to write a sponge function and then brute-forcing a collision. Had you ever seen that? I hadn't..."
 tags: [Crypto, Python, C]
+categories: [CTF, Crypto]
 comments: true
 feature: /assets/posts_details/RITSECCTF/sponge.png
 ---
