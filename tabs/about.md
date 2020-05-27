@@ -8,7 +8,7 @@ title: About Me
 # MIT License
 ---
 
-> If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees
+> If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees.
 
 ## Who am I?
 
