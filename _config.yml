@@ -23,7 +23,7 @@ url: 'http://diego95root.github.io'
 author: Diego Bernal Adelantado                 # change to your full name
 
 # generate from https://www.favicon-generator.org/
-avatar: /assets/img/favicons/favicon.ico   # support internet resources
+avatar: /assets/img/favicons/logo.png   # support internet resources
 
 github:
   username: diego95root             # change to your github username
