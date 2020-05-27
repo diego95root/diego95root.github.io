@@ -13,6 +13,6 @@ title: About Me
 ## Who am I?
 
 - Student at the University of Leeds
-- Penetration Tester (currently studying towards my OSCP)
+- Future Penetration Tester (currently studying towards my OSCP)
 - Bug Hunter on [YesWeHack](https://yeswehack.com/hunters/godiego) and [HackerOne](https://hackerone.com/diegobernal)
 - CTF Player
