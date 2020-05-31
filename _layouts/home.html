@@ -15,9 +15,9 @@ layout: page
     </h1>
     <div class="post-content">
       <p>
-      {% assign _content = post.content %}
+      {% assign _content = post.excerpt %}
       {% include no-linenos.html %}
-      {{ _content | markdownify | strip_html | truncate: 200 }}
+      {{ _content | markdownify | strip_html }}
       </p>
     </div>
 
