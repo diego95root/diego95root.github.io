@@ -2,7 +2,7 @@
 layout: post
 title: "Intigriti Easter XSS challenge solution"
 date: 2020-04-20
-excerpt: "Come and see my writeup on one of the mindblowing XSSes that Intigriti creates for the fun (and frustration) of hackers..."
+excerpt: "Come and see my writeup on one of the mindblowing XSS that Intigriti creates for the fun (and frustration) of hackers..."
 tags: [Bug Bounty, XSS]
 categories: [Bug Bounty]
 comments: true
