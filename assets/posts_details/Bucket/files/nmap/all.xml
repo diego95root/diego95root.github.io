@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.80 scan initiated Mon Nov 23 23:03:06 2020 as: nmap -p- -sV -sC -oA nmap/all bucket.htb -->
+<nmaprun scanner="nmap" args="nmap -p- -sV -sC -oA nmap/all bucket.htb" start="1606168986" startstr="Mon Nov 23 23:03:06 2020" version="7.80" xmloutputversion="1.04">
+<scaninfo type="connect" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<host starttime="1606168987" endtime="1606169220"><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.10.212" addrtype="ipv4"/>
+<hostnames>
+<hostname name="bucket.htb" type="user"/>
+<hostname name="bucket.htb" type="PTR"/>
+</hostnames>
+<ports><extraports state="closed" count="65533">
+<extrareasons reason="conn-refused" count="65533"/>
+</extraports>
+<port protocol="tcp" portid="22"><state state="open" reason="syn-ack" reason_ttl="0"/><service name="ssh" product="OpenSSH" version="8.2p1 Ubuntu 4" extrainfo="Ubuntu Linux; protocol 2.0" ostype="Linux" method="probed" conf="10"><cpe>cpe:/a:openbsd:openssh:8.2p1</cpe><cpe>cpe:/o:linux:linux_kernel</cpe></service></port>
+<port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="0"/><service name="http" product="Apache httpd" version="2.4.41" hostname="127.0.1.1" method="probed" conf="10"><cpe>cpe:/a:apache:http_server:2.4.41</cpe></service><script id="http-server-header" output="Apache/2.4.41 (Ubuntu)"><elem>Apache/2.4.41 (Ubuntu)</elem>
+</script><script id="http-title" output="Site doesn&apos;t have a title (text/html)."><elem key="title"></elem>
+</script></port>
+</ports>
+<times srtt="35355" rttvar="21558" to="121587"/>
+</host>
+<runstats><finished time="1606169220" timestr="Mon Nov 23 23:07:00 2020" elapsed="233.68" summary="Nmap done at Mon Nov 23 23:07:00 2020; 1 IP address (1 host up) scanned in 233.68 seconds" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

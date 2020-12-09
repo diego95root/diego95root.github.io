@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Mon Nov 23 23:03:06 2020 as: nmap -p- -sV -sC -oA nmap/all bucket.htb
+Host: 10.10.10.212 (bucket.htb)	Status: Up
+Host: 10.10.10.212 (bucket.htb)	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41/	Ignored State: closed (65533)
+# Nmap done at Mon Nov 23 23:07:00 2020 -- 1 IP address (1 host up) scanned in 233.68 seconds
